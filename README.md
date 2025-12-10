@@ -28,5 +28,5 @@ Archivos principales del proyecto:
 Menú de navegación.
 Footer con enlaces a RRSS.
 
-##Uso
+## Uso
 Para usar este proyecto se debe ejecutar el fichero index.html en un navegador.
